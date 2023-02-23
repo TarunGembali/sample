@@ -1,0 +1,17 @@
+*{
+    padding:0px;
+    margin:0px;
+    font-family: sans-serif;
+    background-color: red;
+}
+.container{
+    line-height: 2rem;
+    margin-top: 150px
+}
+.id{
+    margin-bottom: 1rem;   
+}
+.lgn{
+    color: aqua;
+
+}
